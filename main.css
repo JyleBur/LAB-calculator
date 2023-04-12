@@ -1,0 +1,46 @@
+.container-sm {
+    width: 400px;
+}
+
+section {
+    margin-top: 100px;
+}
+
+#top-calculator {
+    color: white;
+    text-align: right;
+    background-color: black;
+    font-size: 30px;
+    margin: -12px;
+    padding: 25px;
+}
+
+#arrow {
+    font-size: 25px;
+}
+
+.container-sm {
+    text-align: center;
+}
+
+.col, .col-6, .col-4 {
+    border: 2px solid black;
+    background-color:#d8d9db;
+    padding: 25px;
+    font-size: 25px;
+}
+
+
+.right-side {
+    background-color: orange;
+    color: white;
+}
+
+.col:hover, .col-6:hover, .col-4:hover {
+    background-color: #72767c;
+}
+
+.right-side:hover {
+    background-color: rgb(185, 126, 14);
+}
+
